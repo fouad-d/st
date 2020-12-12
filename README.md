@@ -23,11 +23,9 @@ updated to latest version 0.8.2
 Installing st
 Download the source code from this repository or use a git clone:
 
-  git clone https://gitlab.com/dwt1/st-distrotube.git
-  cd st-distrotube
-  sudo make clean install
-
-Users of Arch-based distros can also install it from the AUR as st-luke-git.
+`  git clone https://gitlab.com/fouad-dev/st.git`
+`  cd st-distrotube`
+`  sudo make clean install`
 
 
 On OpenBSD, be sure to edit config.mk first and remove -lrt from the $LIBS before compiling.
