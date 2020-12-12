@@ -24,7 +24,9 @@ Installing st
 Download the source code from this repository or use a git clone:
 
 `  git clone https://gitlab.com/fouad-dev/st.git`
+
 `  cd st-distrotube`
+
 `  sudo make clean install`
 
 
